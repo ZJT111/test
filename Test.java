@@ -1,8 +1,8 @@
-poblic class Test
+public class Test
 {
-	public static viod main(Staring[] args){
-		System.out.Printin("hello git\n");
-		System.out.Printin("next line\n");
+	public static void main(String[] args){
+		System.out.println("hello git\n");
+		System.out.println("next line\n");
 		
 	}
 }
